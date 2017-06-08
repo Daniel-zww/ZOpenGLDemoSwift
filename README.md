@@ -11,8 +11,4 @@
 
 ### 目的
 
-对OpenGL进入初步的认识和理解，熟练掌握OpenGL在现实生活中的实际运用
-
-### 启发
-
-感谢LearnOpenGL的中文翻译，中文地址：https://learnopengl-cn.github.io
+希望对OpenGL进入初步的认识和理解，熟练掌握OpenGL在现实生活中的实际运用
